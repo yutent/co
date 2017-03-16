@@ -55,7 +55,7 @@ function co(gen) {
                 return value.then(onFullfilled, onRejected);
             }
 
-            return onRejected(new TypeError('yield的对象只能是 funtion,promise, generator, array, object.'))
+            return onRejected(new Error('uncaught exception'))
         }
 
 
