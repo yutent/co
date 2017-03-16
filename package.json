@@ -1,0 +1,14 @@
+{
+  "name": "es.co",
+  "version": "1.0.0",
+  "description": "co plus from co.",
+  "main": "index.js",
+  "author": "yutent",
+  "keywords": [
+    "dojs",
+    "co",
+    "es.co"
+  ],
+  "repository": "https://github.com/yutent/co.git",
+  "license": "MIT"
+}
